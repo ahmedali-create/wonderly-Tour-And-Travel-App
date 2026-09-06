@@ -185,7 +185,7 @@ function App() {
         <section className="hero" id="home">
           <div className="hero-content">
             <div className="eyebrow">
-              <span>✦</span> Travel made memorable
+              <span></span> Travel made memorable
             </div>
             <h1>
               Find your next <span>beautiful</span> escape.
